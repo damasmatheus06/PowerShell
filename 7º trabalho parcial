@@ -1,0 +1,4 @@
+for ($i = 0; $i -le 30; $i += 3) {
+    Write-Host -NoNewline "$i "
+}
+Write-Host
